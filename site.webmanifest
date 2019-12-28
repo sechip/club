@@ -1,34 +1,33 @@
 {
-    "name": "Sé Chip",
     "short_name": "Sé Chip",
+    "name": "Sé Chip",
     "icons": [
-        {
-            "src": "https://1.bp.blogspot.com/-rhfPd0UmZ3w/Xgdrwx0FpWI/AAAAAAAAH_Y/UmgZyW7Ja1YoRBiCrqi4RSHkk470vtcQwCLcBGAsYHQ/s1600/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "https://1.bp.blogspot.com/-iZbuVNbu3fc/Xgdr8aQbpsI/AAAAAAAAH_g/9j__HSNr5BsoTHGlIn1detbmJ8dpvwgNwCLcBGAsYHQ/s1600/apple-touch-icon.png",
-            "sizes": "180x180",
-            "type": "image/png"
-        },
-        {
-            "src": "https://1.bp.blogspot.com/-T93UGJL65BA/XgdsHShVDqI/AAAAAAAAH_w/Dsc__J0n1ZQymgDG8h_KP9tE09fuO-0aACLcBGAsYHQ/s1600/favicon-32x32.png",
-            "sizes": "32x32",
-            "type": "image/png"
-        },
-        {
-            "src": "https://1.bp.blogspot.com/-UAIxe_EIDjc/XgdsBgoxpBI/AAAAAAAAH_o/_gdbWrg47yIE82VUCNHZ3aEKyYk2F97egCLcBGAsYHQ/s1600/favicon-16x16.png",
-            "sizes": "16x16",
-            "type": "image/png"
-        },
-        {
-            "src": "https://1.bp.blogspot.com/-n4Rf34r_71c/Xgdr18bptgI/AAAAAAAAH_c/FUDW_HILv5EAX336O-3hIJzESpbwnegBACLcBGAsYHQ/s1600/android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
+      {
+        "src": "https://1.bp.blogspot.com/-UAIxe_EIDjc/XgdsBgoxpBI/AAAAAAAAH_o/_gdbWrg47yIE82VUCNHZ3aEKyYk2F97egCLcBGAsYHQ/s1600/favicon-16x16.png",
+        "type": "image/png",
+        "sizes": "16x16"
+      },
+      {
+        "src": "https://1.bp.blogspot.com/-T93UGJL65BA/XgdsHShVDqI/AAAAAAAAH_w/Dsc__J0n1ZQymgDG8h_KP9tE09fuO-0aACLcBGAsYHQ/s1600/favicon-32x32.png",
+        "type": "image/png",
+        "sizes": "32x32"
+      },
+      {
+        "src": "https://1.bp.blogspot.com/-iZbuVNbu3fc/Xgdr8aQbpsI/AAAAAAAAH_g/9j__HSNr5BsoTHGlIn1detbmJ8dpvwgNwCLcBGAsYHQ/s1600/apple-touch-icon.png",
+        "type": "image/png",
+        "sizes": "180x180"
+      },
+      {
+        "src": "https://1.bp.blogspot.com/-n4Rf34r_71c/Xgdr18bptgI/AAAAAAAAH_c/FUDW_HILv5EAX336O-3hIJzESpbwnegBACLcBGAsYHQ/s1600/android-chrome-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "https://1.bp.blogspot.com/-rhfPd0UmZ3w/Xgdrwx0FpWI/AAAAAAAAH_Y/UmgZyW7Ja1YoRBiCrqi4RSHkk470vtcQwCLcBGAsYHQ/s1600/android-chrome-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "start_url": "/",
     "display": "standalone"
 }
